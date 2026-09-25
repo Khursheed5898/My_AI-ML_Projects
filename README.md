@@ -57,6 +57,6 @@ A consolidated repository of **Artificial Intelligence, Machine Learning, Deep L
 ---
 
 ## 👤 Author
-- **Developer:** Khursheed Alam
+- **Developer:**  [Khursheed ALam](https://khursheed4k.vercel.app)
 - **GitHub:** [@Khursheed5898](https://github.com/Khursheed5898)
 - **LinkedIn:** [Khursheed Alam](https://www.linkedin.com/in/khursheed-alam-51a76121b)
